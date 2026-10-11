@@ -1,0 +1,4 @@
+*.key binary
+*.ts binary
+*.jpg binary
+*.m3u8 -text

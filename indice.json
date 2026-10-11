@@ -1,0 +1,1514 @@
+{
+ "gerado": true,
+ "dominio": "gtatimeline.app",
+ "jogos": [
+  {
+   "id": "gta1",
+   "jogo": "Grand Theft Auto",
+   "curto": "GTA 1",
+   "ano": "1997",
+   "cor": "#ffd23f",
+   "cor2": "#e4252b",
+   "fundo": "#0b0b0b",
+   "total": 4,
+   "videos": [
+    {
+     "id": "historia",
+     "n": 1,
+     "serie": "A História",
+     "titulo": "Onde tudo começou",
+     "dur": 69.5,
+     "hls": "gta1/01-historia/index.m3u8",
+     "capa": "gta1/01-historia.jpg",
+     "gancho": "1997. Escócia. Um jogo de corrida de polícia e ladrão vira outra coisa: roubar qualquer carro da cidade."
+    },
+    {
+     "id": "bastidores",
+     "n": 2,
+     "serie": "Bastidores",
+     "titulo": "Escândalo como estratégia",
+     "dur": 42.0,
+     "hls": "gta1/02-bastidores/index.m3u8",
+     "capa": "gta1/02-bastidores.jpg",
+     "gancho": "Quatro de abril de 1995. É a data oficial do início do projeto Race'n'Chase."
+    },
+    {
+     "id": "easter-eggs",
+     "n": 3,
+     "serie": "Easter Eggs",
+     "titulo": "GOURANGA!",
+     "dur": 32.6,
+     "hls": "gta1/03-easter-eggs/index.m3u8",
+     "capa": "gta1/03-easter-eggs.jpg",
+     "gancho": "Atropele uma fila inteira de monges Hare Krishna de uma vez e a tela grita: Gouranga! Bônus de pontos."
+    },
+    {
+     "id": "garagem-arsenal",
+     "n": 4,
+     "serie": "Garagem e Arsenal",
+     "titulo": "Carros e armas de 1997",
+     "dur": 36.8,
+     "hls": "gta1/04-garagem-arsenal/index.m3u8",
+     "capa": "gta1/04-garagem-arsenal.jpg",
+     "gancho": "Cinquenta e nove veículos, todos vistos de cima. Táxi, viatura, ambulância, esportivo e até tanque."
+    }
+   ],
+   "episodio": {
+    "hls": "gta1/ep/index.m3u8",
+    "capa": "gta1/youtube-16x9.jpg",
+    "dur": 177.4,
+    "capitulos": [
+     {
+      "t": 0,
+      "nome": "Abertura · A História"
+     },
+     {
+      "t": 67,
+      "nome": "Bastidores"
+     },
+     {
+      "t": 108,
+      "nome": "Easter Eggs"
+     },
+     {
+      "t": 139,
+      "nome": "Garagem e Arsenal"
+     }
+    ]
+   }
+  },
+  {
+   "id": "london",
+   "jogo": "GTA: London 1969",
+   "curto": "LONDON",
+   "ano": "1969",
+   "cor": "#c1121f",
+   "cor2": "#1d3f8f",
+   "fundo": "#f2ead8",
+   "total": 3,
+   "videos": [
+    {
+     "id": "historia",
+     "n": 1,
+     "serie": "A História",
+     "titulo": "GTA vai a Londres",
+     "dur": 63.2,
+     "hls": "london/01-historia/index.m3u8",
+     "capa": "london/01-historia.jpg",
+     "gancho": "1999. Pela primeira e única vez, GTA sai dos Estados Unidos e desembarca na Londres de 1969."
+    },
+    {
+     "id": "curiosidades",
+     "n": 2,
+     "serie": "Curiosidades",
+     "titulo": "Ironia britânica",
+     "dur": 30.9,
+     "hls": "london/02-curiosidades/index.m3u8",
+     "capa": "london/02-curiosidades.jpg",
+     "gancho": "Três coisas que pouca gente sabe sobre o GTA que foi a Londres."
+    },
+    {
+     "id": "garagem",
+     "n": 3,
+     "serie": "Garagem",
+     "titulo": "Carros com sotaque",
+     "dur": 24.6,
+     "hls": "london/03-garagem/index.m3u8",
+     "capa": "london/03-garagem.jpg",
+     "gancho": "Trinta e seis veículos na expansão, com nomes de paródia e sotaque britânico."
+    }
+   ],
+   "episodio": {
+    "hls": "london/ep/index.m3u8",
+    "capa": "london/youtube-16x9.jpg",
+    "dur": 116.8,
+    "capitulos": [
+     {
+      "t": 0,
+      "nome": "Abertura · A História"
+     },
+     {
+      "t": 61,
+      "nome": "Curiosidades"
+     },
+     {
+      "t": 91,
+      "nome": "Garagem"
+     }
+    ]
+   }
+  },
+  {
+   "id": "gta2",
+   "jogo": "Grand Theft Auto 2",
+   "curto": "GTA 2",
+   "ano": "1999",
+   "cor": "#9dff3b",
+   "cor2": "#ff7a1a",
+   "fundo": "#07090a",
+   "total": 4,
+   "videos": [
+    {
+     "id": "historia",
+     "n": 1,
+     "serie": "A História",
+     "titulo": "Anywhere City, a cidade sem data",
+     "dur": 70.4,
+     "hls": "gta2/01-historia/index.m3u8",
+     "capa": "gta2/01-historia.jpg",
+     "gancho": "1999. Uma cidade sem nome de verdade e sem ano definido. Anywhere City, a cidade de qualquer lugar."
+    },
+    {
+     "id": "curiosidades",
+     "n": 2,
+     "serie": "Curiosidades",
+     "titulo": "O curta e o Claude",
+     "dur": 33.5,
+     "hls": "gta2/02-curiosidades/index.m3u8",
+     "capa": "gta2/02-curiosidades.jpg",
+     "gancho": "Para promover o jogo, a Rockstar gravou um curta live-action de uns oito minutos com Claude Speed roubando carros. Trechos abrem o próprio jogo."
+    },
+    {
+     "id": "easter-eggs",
+     "n": 3,
+     "serie": "Easter Eggs",
+     "titulo": "Elvis saiu do prédio",
+     "dur": 25.6,
+     "hls": "gta2/03-easter-eggs/index.m3u8",
+     "capa": "gta2/03-easter-eggs.jpg",
+     "gancho": "Bandos de imitadores do Elvis andam pela cidade. Atropele todos de uma vez: Elvis has left the building."
+    },
+    {
+     "id": "garagem-arsenal",
+     "n": 4,
+     "serie": "Garagem e Arsenal",
+     "titulo": "Armas no carro",
+     "dur": 30.3,
+     "hls": "gta2/04-garagem-arsenal/index.m3u8",
+     "capa": "gta2/04-garagem-arsenal.jpg",
+     "gancho": "Sessenta e nove veículos, muitos ligados às gangues. Pela silhueta do carro você sabe de quem é o território."
+    }
+   ],
+   "episodio": {
+    "hls": "gta2/ep/index.m3u8",
+    "capa": "gta2/youtube-16x9.jpg",
+    "dur": 156.4,
+    "capitulos": [
+     {
+      "t": 0,
+      "nome": "Abertura · A História"
+     },
+     {
+      "t": 68,
+      "nome": "Curiosidades"
+     },
+     {
+      "t": 100,
+      "nome": "Easter Eggs"
+     },
+     {
+      "t": 124,
+      "nome": "Garagem e Arsenal"
+     }
+    ]
+   }
+  },
+  {
+   "id": "gta3",
+   "jogo": "Grand Theft Auto III",
+   "curto": "GTA III",
+   "ano": "2001",
+   "cor": "#f5c400",
+   "cor2": "#8f97a3",
+   "fundo": "#08090b",
+   "total": 9,
+   "videos": [
+    {
+     "id": "historia",
+     "n": 1,
+     "serie": "A História",
+     "titulo": "A traição que fundou o 3D",
+     "dur": 77.4,
+     "hls": "gta3/01-historia/index.m3u8",
+     "capa": "gta3/01-historia.jpg",
+     "gancho": "Outubro de 2001. Um assalto a banco em Liberty City termina com um tiro pelas costas."
+    },
+    {
+     "id": "bastidores",
+     "n": 2,
+     "serie": "Bastidores",
+     "titulo": "Feito por 23 pessoas",
+     "dur": 55.5,
+     "hls": "gta3/02-bastidores/index.m3u8",
+     "capa": "gta3/02-bastidores.jpg",
+     "gancho": "Cerca de vinte e três pessoas. Esse era o núcleo da equipe que fez GTA III, na DMA Design, em Edimburgo."
+    },
+    {
+     "id": "misterios",
+     "n": 3,
+     "serie": "Arquivo de Mistérios",
+     "titulo": "Dois casos de Liberty City",
+     "dur": 49.5,
+     "hls": "gta3/03-misterios/index.m3u8",
+     "capa": "gta3/03-misterios.jpg",
+     "gancho": "Dois mistérios assombraram quem jogou GTA III em 2001. Os dois têm resposta."
+    },
+    {
+     "id": "easter-eggs",
+     "n": 4,
+     "serie": "Easter Eggs",
+     "titulo": "Olha de novo",
+     "dur": 47.6,
+     "hls": "gta3/04-easter-eggs/index.m3u8",
+     "capa": "gta3/04-easter-eggs.jpg",
+     "gancho": "Aponte o rifle de precisão para a lua e atire. Ela cresce, encolhe e volta. A piada passou para Vice City e San Andreas."
+    },
+    {
+     "id": "garagem",
+     "n": 5,
+     "serie": "Garagem",
+     "titulo": "Os carros de Liberty City",
+     "dur": 51.0,
+     "hls": "gta3/05-garagem/index.m3u8",
+     "capa": "gta3/05-garagem.jpg",
+     "gancho": "Sessenta e um veículos. Pouco perto dos jogos de hoje, mas cada um com função: fugir, transportar ou marcar território."
+    },
+    {
+     "id": "arsenal",
+     "n": 6,
+     "serie": "Arsenal",
+     "titulo": "Doze ferramentas de trabalho",
+     "dur": 46.8,
+     "hls": "gta3/06-arsenal/index.m3u8",
+     "capa": "gta3/06-arsenal.jpg",
+     "gancho": "Em GTA III, a arma deixou de ser um ícone no chão visto de cima. Agora tem mira, distância e cobertura."
+    },
+    {
+     "id": "radios",
+     "n": 7,
+     "serie": "Rádios",
+     "titulo": "Gire o dial de Liberty City",
+     "dur": 43.4,
+     "hls": "gta3/07-radios/index.m3u8",
+     "capa": "gta3/07-radios.jpg",
+     "gancho": "Nove estações. Foi aqui que o rádio de GTA virou o que conhecemos: DJs com personalidade e comerciais absurdos."
+    },
+    {
+     "id": "codigos",
+     "n": 8,
+     "serie": "Códigos",
+     "titulo": "Os cheats de 2001",
+     "dur": 47.7,
+     "hls": "gta3/08-codigos/index.m3u8",
+     "capa": "gta3/08-codigos.jpg",
+     "gancho": "No PC, os códigos de GTA III eram frases. Cada uma, uma piada. Digite durante o jogo, sem pausar."
+    },
+    {
+     "id": "elenco",
+     "n": 9,
+     "serie": "Elenco",
+     "titulo": "Quem é quem em Liberty City",
+     "dur": 49.8,
+     "hls": "gta3/09-elenco/index.m3u8",
+     "capa": "gta3/09-elenco.jpg",
+     "gancho": "Claude. Assaltante, silencioso, traído. Voltaria anos depois em San Andreas, numa corrida contra o CJ."
+    }
+   ],
+   "episodio": {
+    "hls": "gta3/ep/index.m3u8",
+    "capa": "gta3/youtube-16x9.jpg",
+    "dur": 457.3,
+    "capitulos": [
+     {
+      "t": 0,
+      "nome": "Abertura · A História"
+     },
+     {
+      "t": 75,
+      "nome": "Bastidores"
+     },
+     {
+      "t": 129,
+      "nome": "Arquivo de Mistérios"
+     },
+     {
+      "t": 177,
+      "nome": "Easter Eggs"
+     },
+     {
+      "t": 223,
+      "nome": "Garagem"
+     },
+     {
+      "t": 273,
+      "nome": "Arsenal"
+     },
+     {
+      "t": 318,
+      "nome": "Rádios"
+     },
+     {
+      "t": 360,
+      "nome": "Códigos"
+     },
+     {
+      "t": 406,
+      "nome": "Elenco"
+     }
+    ]
+   }
+  },
+  {
+   "id": "vc",
+   "jogo": "GTA: Vice City",
+   "curto": "VICE CITY",
+   "ano": "1986",
+   "cor": "#ff3fa4",
+   "cor2": "#25e8ff",
+   "fundo": "#12001f",
+   "total": 9,
+   "videos": [
+    {
+     "id": "historia",
+     "n": 1,
+     "serie": "A História",
+     "titulo": "De capanga a dono da cidade",
+     "dur": 68.8,
+     "hls": "vc/01-historia/index.m3u8",
+     "capa": "vc/01-historia.jpg",
+     "gancho": "1986. Tommy Vercetti sai da cadeia depois de quinze anos e é mandado para o sol de Vice City."
+    },
+    {
+     "id": "bastidores",
+     "n": 2,
+     "serie": "Bastidores",
+     "titulo": "Como fizeram 1986",
+     "dur": 44.7,
+     "hls": "vc/02-bastidores/index.m3u8",
+     "capa": "vc/02-bastidores.jpg",
+     "gancho": "Depois de GTA III, a equipe viajou para Miami em pequenos grupos para fotografar ruas, fachadas e o clima da cidade."
+    },
+    {
+     "id": "misterios",
+     "n": 3,
+     "serie": "Arquivo de Mistérios",
+     "titulo": "O que assusta em Vice City",
+     "dur": 40.3,
+     "hls": "vc/03-misterios/index.m3u8",
+     "capa": "vc/03-misterios.jpg",
+     "gancho": "Vice City tem praia, sol e neon. E dois mistérios que tiraram o sono de muita gente."
+    },
+    {
+     "id": "easter-eggs",
+     "n": 4,
+     "serie": "Easter Eggs",
+     "titulo": "O ovo de Páscoa de verdade",
+     "dur": 39.8,
+     "hls": "vc/04-easter-eggs/index.m3u8",
+     "capa": "vc/04-easter-eggs.jpg",
+     "gancho": "O easter egg mais literal da história: uma sala sem porta, com um ovo de chocolate gigante e a frase Happy Easter."
+    },
+    {
+     "id": "garagem",
+     "n": 5,
+     "serie": "Garagem",
+     "titulo": "Os carros de 1986",
+     "dur": 45.1,
+     "hls": "vc/05-garagem/index.m3u8",
+     "capa": "vc/05-garagem.jpg",
+     "gancho": "Cento e oito veículos, com motos, barcos e helicópteros. Em Vice City, a garagem é parte do figurino."
+    },
+    {
+     "id": "arsenal",
+     "n": 6,
+     "serie": "Arsenal",
+     "titulo": "Armas de filme de ação",
+     "dur": 38.0,
+     "hls": "vc/06-arsenal/index.m3u8",
+     "capa": "vc/06-arsenal.jpg",
+     "gancho": "O arsenal de Vice City parece saído de um filme de ação dos anos oitenta. E é de propósito."
+    },
+    {
+     "id": "radios",
+     "n": 7,
+     "serie": "Rádios",
+     "titulo": "A trilha mais famosa dos games",
+     "dur": 37.1,
+     "hls": "vc/07-radios/index.m3u8",
+     "capa": "vc/07-radios.jpg",
+     "gancho": "Nove estações e os anos oitenta inteiros: de Michael Jackson a Iron Maiden."
+    },
+    {
+     "id": "codigos",
+     "n": 8,
+     "serie": "Códigos",
+     "titulo": "Digite sem pausar",
+     "dur": 33.3,
+     "hls": "vc/08-codigos/index.m3u8",
+     "capa": "vc/08-codigos.jpg",
+     "gancho": "Os códigos de Vice City são frases inteiras em inglês. Digite durante o jogo, sem pausar."
+    },
+    {
+     "id": "elenco",
+     "n": 9,
+     "serie": "Elenco",
+     "titulo": "As vozes de Vice City",
+     "dur": 37.5,
+     "hls": "vc/09-elenco/index.m3u8",
+     "capa": "vc/09-elenco.jpg",
+     "gancho": "Tommy Vercetti. Ambicioso, impaciente, e com a voz de Ray Liotta."
+    }
+   ],
+   "episodio": {
+    "hls": "vc/ep/index.m3u8",
+    "capa": "vc/youtube-16x9.jpg",
+    "dur": 373.4,
+    "capitulos": [
+     {
+      "t": 0,
+      "nome": "Abertura · A História"
+     },
+     {
+      "t": 67,
+      "nome": "Bastidores"
+     },
+     {
+      "t": 110,
+      "nome": "Arquivo de Mistérios"
+     },
+     {
+      "t": 149,
+      "nome": "Easter Eggs"
+     },
+     {
+      "t": 187,
+      "nome": "Garagem"
+     },
+     {
+      "t": 230,
+      "nome": "Arsenal"
+     },
+     {
+      "t": 267,
+      "nome": "Rádios"
+     },
+     {
+      "t": 302,
+      "nome": "Códigos"
+     },
+     {
+      "t": 334,
+      "nome": "Elenco"
+     }
+    ]
+   }
+  },
+  {
+   "id": "sa",
+   "jogo": "GTA: San Andreas",
+   "curto": "SAN ANDREAS",
+   "ano": "1992",
+   "cor": "#3fbf3f",
+   "cor2": "#ffb02e",
+   "fundo": "#0d1408",
+   "total": 9,
+   "videos": [
+    {
+     "id": "historia",
+     "n": 1,
+     "serie": "A História",
+     "titulo": "Grove Street, de volta pra casa",
+     "dur": 77.5,
+     "hls": "sa/01-historia/index.m3u8",
+     "capa": "sa/01-historia.jpg",
+     "gancho": "1992. Carl Johnson volta para Los Santos depois de cinco anos em Liberty City. A mãe dele acabou de ser assassinada."
+    },
+    {
+     "id": "bastidores",
+     "n": 2,
+     "serie": "Bastidores",
+     "titulo": "O maior jogo do PS2",
+     "dur": 45.0,
+     "hls": "sa/02-bastidores/index.m3u8",
+     "capa": "sa/02-bastidores.jpg",
+     "gancho": "Oitocentos e sessenta e um atores creditados. Isso rendeu um recorde no Guinness."
+    },
+    {
+     "id": "misterios",
+     "n": 3,
+     "serie": "Arquivo de Mistérios",
+     "titulo": "As lendas da lan house",
+     "dur": 43.6,
+     "hls": "sa/03-misterios/index.m3u8",
+     "capa": "sa/03-misterios.jpg",
+     "gancho": "Nenhum GTA gerou tanta lenda quanto San Andreas. Abrimos os arquivos."
+    },
+    {
+     "id": "easter-eggs",
+     "n": 4,
+     "serie": "Easter Eggs",
+     "titulo": "Não tem easter egg aqui",
+     "dur": 46.7,
+     "hls": "sa/04-easter-eggs/index.m3u8",
+     "capa": "sa/04-easter-eggs.jpg",
+     "gancho": "No topo da Gant Bridge, em San Fierro, uma placa diz: não há easter eggs aqui em cima. Vá embora. Ironia: é um easter egg."
+    },
+    {
+     "id": "garagem",
+     "n": 5,
+     "serie": "Garagem",
+     "titulo": "Da BMX ao jato",
+     "dur": 45.1,
+     "hls": "sa/05-garagem/index.m3u8",
+     "capa": "sa/05-garagem.jpg",
+     "gancho": "Duzentos e doze veículos. De bicicleta a avião comercial, de trator a jato militar."
+    },
+    {
+     "id": "arsenal",
+     "n": 6,
+     "serie": "Arsenal",
+     "titulo": "Arma também sobe de nível",
+     "dur": 43.2,
+     "hls": "sa/06-arsenal/index.m3u8",
+     "capa": "sa/06-arsenal.jpg",
+     "gancho": "Em San Andreas, CJ melhora com cada arma de tanto usar. No nível máximo, atira com duas ao mesmo tempo."
+    },
+    {
+     "id": "radios",
+     "n": 7,
+     "serie": "Rádios",
+     "titulo": "O dial de 1992",
+     "dur": 33.6,
+     "hls": "sa/07-radios/index.m3u8",
+     "capa": "sa/07-radios.jpg",
+     "gancho": "Onze estações. Do gangsta rap ao country, passando pelo grunge."
+    },
+    {
+     "id": "codigos",
+     "n": 8,
+     "serie": "Códigos",
+     "titulo": "HESOYAM e companhia",
+     "dur": 37.5,
+     "hls": "sa/08-codigos/index.m3u8",
+     "capa": "sa/08-codigos.jpg",
+     "gancho": "Em San Andreas, os códigos viraram letras sem sentido. E mesmo assim todo mundo decorou."
+    },
+    {
+     "id": "elenco",
+     "n": 9,
+     "serie": "Elenco",
+     "titulo": "A família e os traidores",
+     "dur": 41.6,
+     "hls": "sa/09-elenco/index.m3u8",
+     "capa": "sa/09-elenco.jpg",
+     "gancho": "Carl Johnson, o CJ. A voz é do rapper Young Maylay, no primeiro papel dele."
+    }
+   ],
+   "episodio": {
+    "hls": "sa/ep/index.m3u8",
+    "capa": "sa/youtube-16x9.jpg",
+    "dur": 402.7,
+    "capitulos": [
+     {
+      "t": 0,
+      "nome": "Abertura · A História"
+     },
+     {
+      "t": 75,
+      "nome": "Bastidores"
+     },
+     {
+      "t": 119,
+      "nome": "Arquivo de Mistérios"
+     },
+     {
+      "t": 161,
+      "nome": "Easter Eggs"
+     },
+     {
+      "t": 206,
+      "nome": "Garagem"
+     },
+     {
+      "t": 250,
+      "nome": "Arsenal"
+     },
+     {
+      "t": 291,
+      "nome": "Rádios"
+     },
+     {
+      "t": 323,
+      "nome": "Códigos"
+     },
+     {
+      "t": 359,
+      "nome": "Elenco"
+     }
+    ]
+   }
+  },
+  {
+   "id": "advance",
+   "jogo": "GTA Advance",
+   "curto": "ADVANCE",
+   "ano": "2000",
+   "cor": "#8bd450",
+   "cor2": "#3d6b2f",
+   "fundo": "#0f1a12",
+   "total": 2,
+   "videos": [
+    {
+     "id": "historia",
+     "n": 1,
+     "serie": "A História",
+     "titulo": "Liberty City no bolso",
+     "dur": 57.4,
+     "hls": "advance/01-historia/index.m3u8",
+     "capa": "advance/01-historia.jpg",
+     "gancho": "2004. Liberty City cabe num Game Boy Advance. A história se passa um ano antes de GTA III."
+    },
+    {
+     "id": "garagem-arsenal",
+     "n": 2,
+     "serie": "Garagem e Arsenal",
+     "titulo": "Um GTA em cartucho",
+     "dur": 28.3,
+     "hls": "advance/02-garagem-arsenal/index.m3u8",
+     "capa": "advance/02-garagem-arsenal.jpg",
+     "gancho": "Vinte e oito veículos num cartucho de Game Boy Advance."
+    }
+   ],
+   "episodio": {
+    "hls": "advance/ep/index.m3u8",
+    "capa": "advance/youtube-16x9.jpg",
+    "dur": 85.4,
+    "capitulos": [
+     {
+      "t": 0,
+      "nome": "Abertura · A História"
+     },
+     {
+      "t": 55,
+      "nome": "Garagem e Arsenal"
+     }
+    ]
+   }
+  },
+  {
+   "id": "lcs",
+   "jogo": "GTA: Liberty City Stories",
+   "curto": "LCS",
+   "ano": "1998",
+   "cor": "#9e1b12",
+   "cor2": "#1d1a16",
+   "fundo": "#f1e7d0",
+   "total": 3,
+   "videos": [
+    {
+     "id": "historia",
+     "n": 1,
+     "serie": "A História",
+     "titulo": "Toni volta para casa",
+     "dur": 67.0,
+     "hls": "lcs/01-historia/index.m3u8",
+     "capa": "lcs/01-historia.jpg",
+     "gancho": "Edição extra, 1998. Toni Cipriani volta a Liberty City depois de anos fora, por ter matado um homem feito."
+    },
+    {
+     "id": "conexoes",
+     "n": 2,
+     "serie": "Conexões",
+     "titulo": "A cidade antes de Claude",
+     "dur": 34.2,
+     "hls": "lcs/02-conexoes/index.m3u8",
+     "capa": "lcs/02-conexoes.jpg",
+     "gancho": "Em LCS, Toni explode o bairro de Fort Staunton inteiro. Em GTA III, três anos depois, ali está um enorme canteiro de obras."
+    },
+    {
+     "id": "garagem-arsenal",
+     "n": 3,
+     "serie": "Garagem e Arsenal",
+     "titulo": "Guerra de máfia",
+     "dur": 30.6,
+     "hls": "lcs/03-garagem-arsenal/index.m3u8",
+     "capa": "lcs/03-garagem-arsenal.jpg",
+     "gancho": "Oitenta e sete veículos, com carros de máfia e motos."
+    }
+   ],
+   "episodio": {
+    "hls": "lcs/ep/index.m3u8",
+    "capa": "lcs/youtube-16x9.jpg",
+    "dur": 129.9,
+    "capitulos": [
+     {
+      "t": 0,
+      "nome": "Abertura · A História"
+     },
+     {
+      "t": 65,
+      "nome": "Conexões"
+     },
+     {
+      "t": 98,
+      "nome": "Garagem e Arsenal"
+     }
+    ]
+   }
+  },
+  {
+   "id": "vcs",
+   "jogo": "GTA: Vice City Stories",
+   "curto": "VCS",
+   "ano": "1984",
+   "cor": "#ff8a1f",
+   "cor2": "#7a8f3a",
+   "fundo": "#1b0f08",
+   "total": 3,
+   "videos": [
+    {
+     "id": "historia",
+     "n": 1,
+     "serie": "A História",
+     "titulo": "O irmão que conhecemos morto",
+     "dur": 60.4,
+     "hls": "vcs/01-historia/index.m3u8",
+     "capa": "vcs/01-historia.jpg",
+     "gancho": "Vice City, 1984. Dois anos antes de Tommy, um soldado chamado Victor Vance tenta fazer a coisa certa."
+    },
+    {
+     "id": "conexoes",
+     "n": 2,
+     "serie": "Conexões",
+     "titulo": "Phil Collins e o braço do Phil",
+     "dur": 35.5,
+     "hls": "vcs/02-conexoes/index.m3u8",
+     "capa": "vcs/02-conexoes.jpg",
+     "gancho": "Phil Collins aparece como ele mesmo, com a própria voz. Vic vira segurança dele e o show de In the Air Tonight é recriado no jogo."
+    },
+    {
+     "id": "garagem-arsenal",
+     "n": 3,
+     "serie": "Garagem e Arsenal",
+     "titulo": "Militar e tropical",
+     "dur": 27.6,
+     "hls": "vcs/03-garagem-arsenal/index.m3u8",
+     "capa": "vcs/03-garagem-arsenal.jpg",
+     "gancho": "Cento e dez veículos, com barcos, helicópteros e aviões."
+    }
+   ],
+   "episodio": {
+    "hls": "vcs/ep/index.m3u8",
+    "capa": "vcs/youtube-16x9.jpg",
+    "dur": 121.6,
+    "capitulos": [
+     {
+      "t": 0,
+      "nome": "Abertura · A História"
+     },
+     {
+      "t": 58,
+      "nome": "Conexões"
+     },
+     {
+      "t": 92,
+      "nome": "Garagem e Arsenal"
+     }
+    ]
+   }
+  },
+  {
+   "id": "gta4",
+   "jogo": "Grand Theft Auto IV",
+   "curto": "GTA IV",
+   "ano": "2008",
+   "cor": "#d9e3ea",
+   "cor2": "#c8102e",
+   "fundo": "#0b0e12",
+   "total": 9,
+   "videos": [
+    {
+     "id": "historia",
+     "n": 1,
+     "serie": "A História",
+     "titulo": "O sonho americano de Niko",
+     "dur": 77.5,
+     "hls": "gta4/01-historia/index.m3u8",
+     "capa": "gta4/01-historia.jpg",
+     "gancho": "2008. Um navio cargueiro chega a Liberty City. Nele está Niko Bellic, ex-soldado do Leste Europeu, atrás de uma vida nova."
+    },
+    {
+     "id": "bastidores",
+     "n": 2,
+     "serie": "Bastidores",
+     "titulo": "Nova York em 250 mil fotos",
+     "dur": 45.2,
+     "hls": "gta4/02-bastidores/index.m3u8",
+     "capa": "gta4/02-bastidores.jpg",
+     "gancho": "Até duzentas e cinquenta mil fotos de Nova York serviram de referência para reconstruir a cidade."
+    },
+    {
+     "id": "misterios",
+     "n": 3,
+     "serie": "Arquivo de Mistérios",
+     "titulo": "Nos túneis de Liberty City",
+     "dur": 45.4,
+     "hls": "gta4/03-misterios/index.m3u8",
+     "capa": "gta4/03-misterios.jpg",
+     "gancho": "Liberty City tem um coração escondido, um assassino nos noticiários e uma criatura nos túneis. Só dois são reais."
+    },
+    {
+     "id": "easter-eggs",
+     "n": 4,
+     "serie": "Easter Eggs",
+     "titulo": "Sem conteúdo escondido. Sério?",
+     "dur": 45.0,
+     "hls": "gta4/04-easter-eggs/index.m3u8",
+     "capa": "gta4/04-easter-eggs.jpg",
+     "gancho": "A Estátua da Felicidade não segura uma tocha. Segura um copo de café quente, piada com o escândalo Hot Coffee de San Andreas."
+    },
+    {
+     "id": "garagem",
+     "n": 5,
+     "serie": "Garagem",
+     "titulo": "Carros com peso de verdade",
+     "dur": 43.5,
+     "hls": "gta4/05-garagem/index.m3u8",
+     "capa": "gta4/05-garagem.jpg",
+     "gancho": "Cento e vinte e sete modelos. Sem aviões pilotáveis, mas com uma física que faz cada carro pesar."
+    },
+    {
+     "id": "arsenal",
+     "n": 6,
+     "serie": "Arsenal",
+     "titulo": "Cobertura e peso",
+     "dur": 34.4,
+     "hls": "gta4/06-arsenal/index.m3u8",
+     "capa": "gta4/06-arsenal.jpg",
+     "gancho": "Em GTA IV o tiroteio ganhou sistema de cobertura. Encostar na parede salva vidas."
+    },
+    {
+     "id": "radios",
+     "n": 7,
+     "serie": "Rádios",
+     "titulo": "O mundo inteiro no dial",
+     "dur": 36.2,
+     "hls": "gta4/07-radios/index.m3u8",
+     "capa": "gta4/07-radios.jpg",
+     "gancho": "Dezenove estações, de reggae a hardcore punk. Liberty City é a cidade de todos os imigrantes."
+    },
+    {
+     "id": "codigos",
+     "n": 8,
+     "serie": "Códigos",
+     "titulo": "Ligue para trapacear",
+     "dur": 45.9,
+     "hls": "gta4/08-codigos/index.m3u8",
+     "capa": "gta4/08-codigos.jpg",
+     "gancho": "Em GTA IV, código não se digita no teclado. Você liga para ele no celular do Niko."
+    },
+    {
+     "id": "elenco",
+     "n": 9,
+     "serie": "Elenco",
+     "titulo": "Os rostos de Liberty City",
+     "dur": 43.6,
+     "hls": "gta4/09-elenco/index.m3u8",
+     "capa": "gta4/09-elenco.jpg",
+     "gancho": "Niko Bellic. Calmo, cansado, perigoso. A voz e os movimentos são de Michael Hollick."
+    }
+   ],
+   "episodio": {
+    "hls": "gta4/ep/index.m3u8",
+    "capa": "gta4/youtube-16x9.jpg",
+    "dur": 405.4,
+    "capitulos": [
+     {
+      "t": 0,
+      "nome": "Abertura · A História"
+     },
+     {
+      "t": 75,
+      "nome": "Bastidores"
+     },
+     {
+      "t": 119,
+      "nome": "Arquivo de Mistérios"
+     },
+     {
+      "t": 163,
+      "nome": "Easter Eggs"
+     },
+     {
+      "t": 206,
+      "nome": "Garagem"
+     },
+     {
+      "t": 248,
+      "nome": "Arsenal"
+     },
+     {
+      "t": 281,
+      "nome": "Rádios"
+     },
+     {
+      "t": 316,
+      "nome": "Códigos"
+     },
+     {
+      "t": 360,
+      "nome": "Elenco"
+     }
+    ]
+   }
+  },
+  {
+   "id": "tlad",
+   "jogo": "GTA IV: The Lost and Damned",
+   "curto": "TLAD",
+   "ano": "2008",
+   "cor": "#e56b1f",
+   "cor2": "#7d7468",
+   "fundo": "#0e0a07",
+   "total": 3,
+   "videos": [
+    {
+     "id": "historia",
+     "n": 1,
+     "serie": "A História",
+     "titulo": "Um motoclube em ruínas",
+     "dur": 63.7,
+     "hls": "tlad/01-historia/index.m3u8",
+     "capa": "tlad/01-historia.jpg",
+     "gancho": "Alderney, 2008. A mesma Liberty City de Niko, vista do banco de uma moto do The Lost MC."
+    },
+    {
+     "id": "segredos",
+     "n": 2,
+     "serie": "Segredos",
+     "titulo": "Os detalhes do clube",
+     "dur": 29.6,
+     "hls": "tlad/02-segredos/index.m3u8",
+     "capa": "tlad/02-segredos.jpg",
+     "gancho": "Na sede do clube, uma parede lista os membros mortos. Conforme a história avança, novos nomes aparecem pintados nela."
+    },
+    {
+     "id": "garagem-arsenal",
+     "n": 3,
+     "serie": "Garagem e Arsenal",
+     "titulo": "Motos e cano serrado",
+     "dur": 27.2,
+     "hls": "tlad/03-garagem-arsenal/index.m3u8",
+     "capa": "tlad/03-garagem-arsenal.jpg",
+     "gancho": "A Hexer é a moto de Johnny. Chopper pesada, assinatura do The Lost."
+    }
+   ],
+   "episodio": {
+    "hls": "tlad/ep/index.m3u8",
+    "capa": "tlad/youtube-16x9.jpg",
+    "dur": 118.5,
+    "capitulos": [
+     {
+      "t": 0,
+      "nome": "Abertura · A História"
+     },
+     {
+      "t": 62,
+      "nome": "Segredos"
+     },
+     {
+      "t": 90,
+      "nome": "Garagem e Arsenal"
+     }
+    ]
+   }
+  },
+  {
+   "id": "cw",
+   "jogo": "GTA: Chinatown Wars",
+   "curto": "CHINATOWN WARS",
+   "ano": "2009",
+   "cor": "#ff2d2d",
+   "cor2": "#ffc61a",
+   "fundo": "#140405",
+   "total": 3,
+   "videos": [
+    {
+     "id": "historia",
+     "n": 1,
+     "serie": "A História",
+     "titulo": "A espada da família",
+     "dur": 59.7,
+     "hls": "cw/01-historia/index.m3u8",
+     "capa": "cw/01-historia.jpg",
+     "gancho": "2009. Huang Lee desembarca em Liberty City com uma missão simples: entregar uma espada. Dá tudo errado na primeira cena."
+    },
+    {
+     "id": "curiosidades",
+     "n": 2,
+     "serie": "Curiosidades",
+     "titulo": "Tela de toque e tráfico",
+     "dur": 33.2,
+     "hls": "cw/02-curiosidades/index.m3u8",
+     "capa": "cw/02-curiosidades.jpg",
+     "gancho": "No DS, a tela de toque virava ferramenta: ligar carro com chave de fenda, montar armas e jogar coquetel molotov com a canetinha."
+    },
+    {
+     "id": "garagem-arsenal",
+     "n": 3,
+     "serie": "Garagem e Arsenal",
+     "titulo": "Pow! Bang! Vrum!",
+     "dur": 25.8,
+     "hls": "cw/03-garagem-arsenal/index.m3u8",
+     "capa": "cw/03-garagem-arsenal.jpg",
+     "gancho": "Setenta veículos vistos de cima, todos com traço de quadrinho."
+    }
+   ],
+   "episodio": {
+    "hls": "cw/ep/index.m3u8",
+    "capa": "cw/youtube-16x9.jpg",
+    "dur": 116.8,
+    "capitulos": [
+     {
+      "t": 0,
+      "nome": "Abertura · A História"
+     },
+     {
+      "t": 58,
+      "nome": "Curiosidades"
+     },
+     {
+      "t": 89,
+      "nome": "Garagem e Arsenal"
+     }
+    ]
+   }
+  },
+  {
+   "id": "tbogt",
+   "jogo": "GTA IV: The Ballad of Gay Tony",
+   "curto": "TBOGT",
+   "ano": "2008",
+   "cor": "#ff4fc3",
+   "cor2": "#ffd36b",
+   "fundo": "#12030f",
+   "total": 3,
+   "videos": [
+    {
+     "id": "historia",
+     "n": 1,
+     "serie": "A História",
+     "titulo": "A noite mais cara de Liberty City",
+     "dur": 61.6,
+     "hls": "tbogt/01-historia/index.m3u8",
+     "capa": "tbogt/01-historia.jpg",
+     "gancho": "2008. As boates mais famosas de Liberty City pertencem a Tony Prince. E estão afundando em dívidas."
+    },
+    {
+     "id": "segredos",
+     "n": 2,
+     "serie": "Segredos",
+     "titulo": "Ouro e anime",
+     "dur": 25.5,
+     "hls": "tbogt/02-segredos/index.m3u8",
+     "capa": "tbogt/02-segredos.jpg",
+     "gancho": "O bilionário Yusuf Amir resolve tudo com ouro: tem submetralhadora dourada e até um helicóptero Buzzard dourado."
+    },
+    {
+     "id": "garagem-arsenal",
+     "n": 3,
+     "serie": "Garagem e Arsenal",
+     "titulo": "Excesso sobre rodas",
+     "dur": 31.2,
+     "hls": "tbogt/03-garagem-arsenal/index.m3u8",
+     "capa": "tbogt/03-garagem-arsenal.jpg",
+     "gancho": "O Bullet GT é o supercarro do episódio. Vale até código no celular para chamar um."
+    }
+   ],
+   "episodio": {
+    "hls": "tbogt/ep/index.m3u8",
+    "capa": "tbogt/youtube-16x9.jpg",
+    "dur": 116.5,
+    "capitulos": [
+     {
+      "t": 0,
+      "nome": "Abertura · A História"
+     },
+     {
+      "t": 60,
+      "nome": "Segredos"
+     },
+     {
+      "t": 83,
+      "nome": "Garagem e Arsenal"
+     }
+    ]
+   }
+  },
+  {
+   "id": "gta5",
+   "jogo": "Grand Theft Auto V",
+   "curto": "GTA V",
+   "ano": "2013",
+   "cor": "#57d67c",
+   "cor2": "#ffb347",
+   "fundo": "#06120c",
+   "total": 10,
+   "videos": [
+    {
+     "id": "historia",
+     "n": 1,
+     "serie": "A História",
+     "titulo": "Três ladrões, um golpe final",
+     "dur": 78.6,
+     "hls": "gta5/01-historia/index.m3u8",
+     "capa": "gta5/01-historia.jpg",
+     "gancho": "2004, North Yankton. Um assalto dá errado na neve, e um dos ladrões é dado como morto."
+    },
+    {
+     "id": "bastidores",
+     "n": 2,
+     "serie": "Bastidores",
+     "titulo": "O jogo mais caro de 2013",
+     "dur": 47.8,
+     "hls": "gta5/02-bastidores/index.m3u8",
+     "capa": "gta5/02-bastidores.jpg",
+     "gancho": "Cerca de mil pessoas trabalharam no jogo, em sete estúdios da Rockstar ao redor do mundo."
+    },
+    {
+     "id": "misterios",
+     "n": 3,
+     "serie": "Arquivo de Mistérios",
+     "titulo": "O mural do Chiliad",
+     "dur": 53.5,
+     "hls": "gta5/03-misterios/index.m3u8",
+     "capa": "gta5/03-misterios.jpg",
+     "gancho": "GTA V tem o mistério mais caçado da história da série. E uma resposta que demorou quatro anos."
+    },
+    {
+     "id": "easter-eggs",
+     "n": 4,
+     "serie": "Easter Eggs",
+     "titulo": "Segredos à vista",
+     "dur": 41.5,
+     "hls": "gta5/04-easter-eggs/index.m3u8",
+     "capa": "gta5/04-easter-eggs.jpg",
+     "gancho": "No prólogo, em North Yankton, um desvio de poucos metros mostra um alienígena congelado no gelo do rio."
+    },
+    {
+     "id": "crossovers",
+     "n": 5,
+     "serie": "Conexões",
+     "titulo": "Os outros GTAs dentro do V",
+     "dur": 39.7,
+     "hls": "gta5/05-crossovers/index.m3u8",
+     "capa": "gta5/05-crossovers.jpg",
+     "gancho": "GTA V esconde pedaços de outros jogos da Rockstar. Repare."
+    },
+    {
+     "id": "garagem",
+     "n": 6,
+     "serie": "Garagem",
+     "titulo": "De BMX a submarino",
+     "dur": 41.9,
+     "hls": "gta5/06-garagem/index.m3u8",
+     "capa": "gta5/06-garagem.jpg",
+     "gancho": "Trezentos e cinquenta modelos no jogo base, com submarino, jato, caminhão e trator."
+    },
+    {
+     "id": "arsenal",
+     "n": 7,
+     "serie": "Arsenal",
+     "titulo": "A roda de armas",
+     "dur": 38.7,
+     "hls": "gta5/07-arsenal/index.m3u8",
+     "capa": "gta5/07-arsenal.jpg",
+     "gancho": "Em GTA V, a arma vira equipamento de assalto: mira, silenciador, lanterna e pintura na Ammu-Nation."
+    },
+    {
+     "id": "radios",
+     "n": 8,
+     "serie": "Rádios",
+     "titulo": "Lendas no dial",
+     "dur": 31.4,
+     "hls": "gta5/08-radios/index.m3u8",
+     "capa": "gta5/08-radios.jpg",
+     "gancho": "Quinze estações musicais e duas de conversa. Mais de duzentas e quarenta músicas no lançamento."
+    },
+    {
+     "id": "codigos",
+     "n": 9,
+     "serie": "Códigos",
+     "titulo": "Os códigos de Los Santos",
+     "dur": 31.9,
+     "hls": "gta5/09-codigos/index.m3u8",
+     "capa": "gta5/09-codigos.jpg",
+     "gancho": "Em GTA V os códigos funcionam no controle, no console do PC ou discando no celular do personagem."
+    },
+    {
+     "id": "elenco",
+     "n": 10,
+     "serie": "Elenco",
+     "titulo": "As caras de Los Santos",
+     "dur": 40.6,
+     "hls": "gta5/10-elenco/index.m3u8",
+     "capa": "gta5/10-elenco.jpg",
+     "gancho": "Michael De Santa, o ladrão aposentado com terapeuta, família em crise e um passado enterrado. Ned Luke."
+    }
+   ],
+   "episodio": {
+    "hls": "gta5/ep/index.m3u8",
+    "capa": "gta5/youtube-16x9.jpg",
+    "dur": 432.8,
+    "capitulos": [
+     {
+      "t": 0,
+      "nome": "Abertura · A História"
+     },
+     {
+      "t": 77,
+      "nome": "Bastidores"
+     },
+     {
+      "t": 123,
+      "nome": "Arquivo de Mistérios"
+     },
+     {
+      "t": 175,
+      "nome": "Easter Eggs"
+     },
+     {
+      "t": 215,
+      "nome": "Conexões"
+     },
+     {
+      "t": 253,
+      "nome": "Garagem"
+     },
+     {
+      "t": 293,
+      "nome": "Arsenal"
+     },
+     {
+      "t": 330,
+      "nome": "Rádios"
+     },
+     {
+      "t": 360,
+      "nome": "Códigos"
+     },
+     {
+      "t": 390,
+      "nome": "Elenco"
+     }
+    ]
+   }
+  },
+  {
+   "id": "online",
+   "jogo": "GTA Online",
+   "curto": "GTA ONLINE",
+   "ano": "2013→",
+   "cor": "#2ec5ff",
+   "cor2": "#ff3d7f",
+   "fundo": "#04070d",
+   "total": 6,
+   "videos": [
+    {
+     "id": "historia",
+     "n": 1,
+     "serie": "A História",
+     "titulo": "Doze anos de sessão aberta",
+     "dur": 70.1,
+     "hls": "online/01-historia/index.m3u8",
+     "capa": "online/01-historia.jpg",
+     "gancho": "Primeiro de outubro de 2013. Duas semanas depois de GTA V, Los Santos abre as portas para todo mundo ao mesmo tempo."
+    },
+    {
+     "id": "atualizacoes",
+     "n": 2,
+     "serie": "Linha do Tempo",
+     "titulo": "As atualizações que mudaram tudo",
+     "dur": 51.2,
+     "hls": "online/02-atualizacoes/index.m3u8",
+     "capa": "online/02-atualizacoes.jpg",
+     "gancho": "Quase cinquenta grandes atualizações gratuitas desde o lançamento."
+    },
+    {
+     "id": "easter-eggs",
+     "n": 3,
+     "serie": "Easter Eggs",
+     "titulo": "Pontes entre os jogos",
+     "dur": 44.2,
+     "hls": "online/03-easter-eggs/index.m3u8",
+     "capa": "online/03-easter-eggs.jpg",
+     "gancho": "No criador de personagem dá para escolher como pai o Niko Bellic, de GTA IV, ou o John Marston, de Red Dead Redemption."
+    },
+    {
+     "id": "misterios",
+     "n": 4,
+     "serie": "Arquivo de Mistérios",
+     "titulo": "Halloween em Los Santos",
+     "dur": 32.2,
+     "hls": "online/04-misterios/index.m3u8",
+     "capa": "online/04-misterios.jpg",
+     "gancho": "No GTA Online, o mistério virou evento. Todo outubro, a cidade fica assombrada de propósito."
+    },
+    {
+     "id": "garagem",
+     "n": 5,
+     "serie": "Garagem",
+     "titulo": "Veículos que viraram armas",
+     "dur": 41.2,
+     "hls": "online/05-garagem/index.m3u8",
+     "capa": "online/05-garagem.jpg",
+     "gancho": "Mais de oitocentos e sessenta veículos controláveis, e a lista não para de crescer."
+    },
+    {
+     "id": "arsenal",
+     "n": 6,
+     "serie": "Arsenal",
+     "titulo": "Armas de outro mundo",
+     "dur": 38.6,
+     "hls": "online/06-arsenal/index.m3u8",
+     "capa": "online/06-arsenal.jpg",
+     "gancho": "O arsenal do Online ganhou de tudo: versões melhoradas, munição especial e armas alienígenas."
+    }
+   ],
+   "episodio": {
+    "hls": "online/ep/index.m3u8",
+    "capa": "online/youtube-16x9.jpg",
+    "dur": 270.8,
+    "capitulos": [
+     {
+      "t": 0,
+      "nome": "Abertura · A História"
+     },
+     {
+      "t": 68,
+      "nome": "Linha do Tempo"
+     },
+     {
+      "t": 118,
+      "nome": "Easter Eggs"
+     },
+     {
+      "t": 160,
+      "nome": "Arquivo de Mistérios"
+     },
+     {
+      "t": 191,
+      "nome": "Garagem"
+     },
+     {
+      "t": 230,
+      "nome": "Arsenal"
+     }
+    ]
+   }
+  },
+  {
+   "id": "gta6",
+   "jogo": "Grand Theft Auto VI",
+   "curto": "GTA VI",
+   "ano": "2026",
+   "cor": "#ff4fa0",
+   "cor2": "#ffb23e",
+   "fundo": "#10031a",
+   "total": 6,
+   "videos": [
+    {
+     "id": "historia",
+     "n": 1,
+     "serie": "A História",
+     "titulo": "O que já sabemos da história",
+     "dur": 69.7,
+     "hls": "gta6/01-historia/index.m3u8",
+     "capa": "gta6/01-historia.jpg",
+     "gancho": "Leonida, hoje. Um casal, um assalto que dá errado e um estado inteiro de olho neles."
+    },
+    {
+     "id": "personagens",
+     "n": 2,
+     "serie": "Personagens",
+     "titulo": "Quem é quem em Leonida",
+     "dur": 62.9,
+     "hls": "gta6/02-personagens/index.m3u8",
+     "capa": "gta6/02-personagens.jpg",
+     "gancho": "Lucia Caminos. O pai ensinou a brigar assim que ela aprendeu a andar. Lutar pela família a levou para a prisão."
+    },
+    {
+     "id": "leonida",
+     "n": 3,
+     "serie": "Leonida",
+     "titulo": "As seis regiões",
+     "dur": 46.7,
+     "hls": "gta6/03-leonida/index.m3u8",
+     "capa": "gta6/03-leonida.jpg",
+     "gancho": "Vice City: o lado mais sombrio do lugar mais ensolarado da América. Neon, dinheiro e fachadas bonitas demais."
+    },
+    {
+     "id": "mecanicas",
+     "n": 4,
+     "serie": "O Que Muda",
+     "titulo": "O que a Rockstar mostrou",
+     "dur": 48.5,
+     "hls": "gta6/04-mecanicas/index.m3u8",
+     "capa": "gta6/04-mecanicas.jpg",
+     "gancho": "Em vinte e seis minutos de gameplay, o Extended Look mostrou como GTA VI funciona. Só o que é oficial:"
+    },
+    {
+     "id": "linha-do-tempo",
+     "n": 5,
+     "serie": "Linha do Tempo",
+     "titulo": "Do anúncio ao lançamento",
+     "dur": 55.1,
+     "hls": "gta6/05-linha-do-tempo/index.m3u8",
+     "capa": "gta6/05-linha-do-tempo.jpg",
+     "gancho": "Quatro de fevereiro de 2022: a Rockstar confirma que o próximo GTA está bem encaminhado."
+    },
+    {
+     "id": "easter-eggs",
+     "n": 6,
+     "serie": "Easter Eggs",
+     "titulo": "Detalhes que a internet achou",
+     "dur": 41.0,
+     "hls": "gta6/06-easter-eggs/index.m3u8",
+     "capa": "gta6/06-easter-eggs.jpg",
+     "gancho": "No primeiro trailer, um jacaré entra numa loja de conveniência como se fosse cliente. A Flórida da Rockstar em um segundo."
+    }
+   ],
+   "episodio": {
+    "hls": "gta6/ep/index.m3u8",
+    "capa": "gta6/youtube-16x9.jpg",
+    "dur": 317.2,
+    "capitulos": [
+     {
+      "t": 0,
+      "nome": "Abertura · A História"
+     },
+     {
+      "t": 68,
+      "nome": "Personagens"
+     },
+     {
+      "t": 129,
+      "nome": "Leonida"
+     },
+     {
+      "t": 174,
+      "nome": "O Que Muda"
+     },
+     {
+      "t": 221,
+      "nome": "Linha do Tempo"
+     },
+     {
+      "t": 275,
+      "nome": "Easter Eggs"
+     }
+    ]
+   }
+  }
+ ]
+}
